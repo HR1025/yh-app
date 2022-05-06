@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "sass": "^1.50.1",
+    "sass-loader": "^12.6.0"
+  }
+}

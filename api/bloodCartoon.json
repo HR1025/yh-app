@@ -1,0 +1,57 @@
+{
+    "bloodCartoon": [{
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/01.jpg",
+        "updateTime": "",
+        "level": 5,
+        "extra": "",
+        "title": "游戏王GO RUSH!!"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/02.jpg",
+        "updateTime": "",
+        "level": 1015,
+        "extra": "",
+        "title": "海贼王"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/03.jpg",
+        "updateTime": "",
+        "level": 52,
+        "extra": "(完结)",
+        "title": "通灵王(2021)"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/04.jpg",
+        "updateTime": "",
+        "level": 206,
+        "extra": "",
+        "title": "斗罗大陆"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/05.jpg",
+        "updateTime": "02:30",
+        "level": 4,
+        "extra": "",
+        "title": "王者天下 第四季"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/06.jpg",
+        "updateTime": "",
+        "level": 2,
+        "extra": "",
+        "title": "超龙珠英雄UGM"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/07.jpg",
+        "updateTime": "",
+        "level": 12,
+        "extra": "(完结)",
+        "title": "进击的巨人 最终季 Part.2"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/08.jpg",
+        "updateTime": "17:30",
+        "level": 247,
+        "extra": "",
+        "title": "博人传 火影忍者新时代"
+    }, {
+        "url": "http://172.16.19.160/resource/img/bloodCartoon/09.jpg",
+        "updateTime": "",
+        "level": 13,
+        "extra": "(完结)",
+        "title": "最游记 RELOAD -ZEROIN-"
+    }]
+}
