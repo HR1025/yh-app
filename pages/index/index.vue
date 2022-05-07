@@ -112,7 +112,7 @@ export default {
 		},
 		getData() {
 			uni.request({
-				url: 'http://172.16.19.160/api/homePreview.json',
+				url: 'http://120.79.26.3:8080/api/homePreview.json',
 				success: res => {
 					this.homePreview = res.data.homePreview;
 				},
@@ -121,7 +121,7 @@ export default {
 				}
 			});
 			uni.request({
-				url: 'http://172.16.19.160/api/timeTable.json',
+				url: 'http://120.79.26.3:8080/api/timeTable.json',
 				success: res => {
 					this.timeTable = res.data.timeTable;
 				},
@@ -131,7 +131,7 @@ export default {
 			});
 			this.sortMessage.forEach((item, index, items) => {
 				uni.request({
-					url: `http://172.16.19.160/api/${item.key}.json`,
+					url: `http://120.79.26.3:8080/api/${item.key}.json`,
 					success: res => {
 						this.sortPreviews[item.key] = res.data[item.key];
 						this.sortPreviewsNum++;
